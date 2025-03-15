@@ -1,7 +1,7 @@
 # oprator_gb_Z
 
 ## Description
-This package is a modification of https://github.com/ClemensHofstadler/operator_gb that allows for Gröbner basis computations with integer coefficients.
+This package is a modification of https://github.com/ClemensHofstadler/operator_gb that allows for Gröbner basis computations with integer coefficients and was part of my thesis "Noncommutative Gröbner bases over Euclidean domains and the F4 algorithm".
 
 ## License
 Distributed under the terms of the GNU General Public License (GPL, see the LICENSE file), either version 2 or (at your option) any later version
